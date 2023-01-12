@@ -13,8 +13,7 @@ function ArticleList ({posts}){
 
     ))
     return ( 
-        <div> {articles} </div>
-        // <main></main>
+        <main> {articles} </main>
 
     )
 }
